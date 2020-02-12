@@ -1,13 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
-//sudo apt-get install libqt5svg5*
-//sudo apt-get install jupyter
-//If you need to reset QTCreator setting delete the folder ~/.local/QtProject or in ~/.config
-//For development install the following
 //sudo apt-get install qtcreator
-//sudo apt-get install qt5-default
-//sudo apt-get install libqt5webkit5-dev
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),

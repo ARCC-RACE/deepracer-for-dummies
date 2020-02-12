@@ -10,11 +10,11 @@
 #include <QProcess>
 #include <QFileDialog>
 #include <QVector>
-#include <QtWebKitWidgets/QWebView>
+#include <QtWebEngineWidgets/QWebEngineView>
 #include <QUrl>
 #include <QTimer>
 #include <QCloseEvent>
-#include <QtXml>
+#include <QtXml/QtXml>
 #include <QInputDialog>
 #include <QDateTime>
 
